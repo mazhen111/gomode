@@ -43,6 +43,7 @@ func main() {
 	fmt.Println(!false)
 	fmt.Println(!true)
 	//==
+	fmt.Println("==")
 	fmt.Println(false == false)
 	fmt.Println(false == true)
 	fmt.Println(true == true)
