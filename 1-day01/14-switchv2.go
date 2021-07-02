@@ -10,8 +10,8 @@ func main() {
 	var text string
 	fmt.Println("你需要卖西瓜吗")
 	fmt.Scan(&text)
-	switch text {
-	case "y":
+	switch {
+	case text == "y":
 		fmt.Printf("买一个包子")
 
 	default:

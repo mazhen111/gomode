@@ -4,10 +4,9 @@ import "fmt"
 
 func main()  {
 	sum :=0
-	for idex :=0 ; idex <=100; idex ++{
-		sum += idex
+	for idx :=1 ; idx <100 ; idx++ {
+		sum += idx
 		fmt.Println(sum)
-
 	}
 	fmt.Println(sum)
 
