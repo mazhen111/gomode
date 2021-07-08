@@ -7,7 +7,6 @@ import (
 )
 
 func main()  {
-
 	/*
 	需求：
 			猜数字 生成随机数字0-100
@@ -16,7 +15,6 @@ func main()  {
 			小 提示太小了
 			等于 成功, 程序结束
 			最多猜测五次，未猜对，说太笨了，程序结束
-
 	 */
 	var randNum int
 	rand.Seed(time.Now().Unix())
@@ -39,8 +37,6 @@ func main()  {
 
 			fmt.Println("未猜对，说太笨了，程序结束")
 		}
-
-
 	}
 
 }
