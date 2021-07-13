@@ -1,3 +1,6 @@
+/*
+多维数组
+ */
 package main
 
 import (
@@ -9,10 +12,10 @@ func main() {
 	// type [2]int
 	// 二维数组
 
-	var ms [3][2] int
-	fmt.Printf("%T\n",ms)
-	fmt.Println(ms)
-	ms = [...][2]int {
+	//var ms [3][2] int
+	//fmt.Printf("%T\n",ms)
+	//fmt.Println(ms)
+	var ms = [...][2]int {
 	 [2]int{1, 2},
 	 [2]int{3, 4},
 	 [2]int{5, 6},
