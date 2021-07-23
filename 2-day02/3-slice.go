@@ -38,6 +38,27 @@ func main() {
 		fmt.Println(a,v)
 	}
 
+	//添加元素
+	//切片的末尾添加
+	names = append(names,"xiaolong")
+
+	//删除元素
+	//切片操作
+	// names[start:end] names中从start开始到end-1所有元素组成的切片
+	// names[1:10]
+	//			0	1								9	 10		11
+	// names = ["" "赵昌建" "" "" "" "" "" "" "" "卫智鹏" "sen" "刘冉"]
+	// [names[1], names[2], ... names[9]]
+	//删除索引为0
+	//fmt.Println(names[1:len(names)])
+	//删除最后一个元素
+	//fmt.Println(names[0:len(names)-1])
+
+
+
+
+
+
 
 
 
