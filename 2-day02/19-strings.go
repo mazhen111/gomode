@@ -50,16 +50,5 @@ func main() {
 	fmt.Println(strings.TrimSuffix("abcbcdabcdbcabc", "abc"))
 	//TrimPrefix删除s头部的prefix字符串
 	fmt.Println(strings.TrimPrefix("abcbcdabcdbcabc", "abc"))
-
-
-
-
-
-
-
-
-
-
-
 }
 
