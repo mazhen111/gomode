@@ -46,13 +46,4 @@ func main()  {
 	for i, v := range nums{
 		fmt.Println(i,v)
 	}
-
-
-
-
-
-
-
-
-
 }
