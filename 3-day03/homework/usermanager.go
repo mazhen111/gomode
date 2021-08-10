@@ -146,7 +146,6 @@ func queryUser()  {
 		}
 
 	}
-
 }
 func main() {
 
