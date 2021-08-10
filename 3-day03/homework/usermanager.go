@@ -143,21 +143,11 @@ func queryUser()  {
 			fmt.Println(v)
 		}else {
 			fmt.Println("输入的ID不正确")
-
-
 		}
-
-
-
-
 
 	}
 
-
-
 }
-
-
 func main() {
 
 
@@ -197,8 +187,7 @@ func main() {
 	}
 
 
-
-	}
+}
 
 
 
