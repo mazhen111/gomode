@@ -1,4 +1,5 @@
 package math
+
 func Add(n1, n2 int) int {
 	return n1 + n2
 }
@@ -14,4 +15,3 @@ func Mul(n1, n2 int) int {
 func Div(n1, n2 int) int {
 	return n1 / n2
 }
-
