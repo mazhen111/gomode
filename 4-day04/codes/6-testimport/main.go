@@ -4,7 +4,7 @@ package main
 
 1-标准包
 2-第三方包
-3-本地宝
+3-本地包
 
  */
 
@@ -15,5 +15,4 @@ import (
 func main() {
 	fmt.Println("11")
 	fmt.Println(mathtest.Add1(1,8))
-
 }
