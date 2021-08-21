@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"os"
 	"strconv"
+	"time"
 )
 func main() {
 	num := os.Args
@@ -15,6 +16,7 @@ func main() {
 
 	}
 	for i:=0;i <len(num);i++{
+		time.Sleep(20)
 		if i>=1 {
 			 e,err :=strconv.Atoi(num[i])
 			 if err == nil {
