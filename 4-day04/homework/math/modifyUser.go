@@ -2,7 +2,7 @@ package math
 
 import "fmt"
 
-func modifyUser()  {
+func ModifyUser()  {
 	if len(users) == 0{
 		fmt.Println("用户不存在")
 

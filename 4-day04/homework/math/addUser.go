@@ -5,7 +5,14 @@ import (
 	"strconv"
 )
 
-func addUser()  {
+var (
+id    string
+name  string
+phone string
+addr  string
+users = []map[string]string{}
+)
+func AddUser()  {
 	userinfo := map[string]string{
 		"id":    "",
 		"name":  "",

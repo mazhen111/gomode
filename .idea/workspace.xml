@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7097630a-12af-418e-b90b-09d2642f9638" name="默认变更列表" comment="[master]共享空间">
-      <change afterPath="$PROJECT_DIR$/4-day04/homework/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-day04/homework/math/addUser.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-day04/homework/math/delUser.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-day04/homework/math/modifyUser.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-day04/homework/math/queryUser.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-day04/homework/math/userlogin.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/12-testime/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/4-day04/codes/12-testime/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-day04/homework/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/4-day04/homework/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-day04/homework/math/addUser.go" beforeDir="false" afterPath="$PROJECT_DIR$/4-day04/homework/math/addUser.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-day04/homework/math/delUser.go" beforeDir="false" afterPath="$PROJECT_DIR$/4-day04/homework/math/delUser.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-day04/homework/math/modifyUser.go" beforeDir="false" afterPath="$PROJECT_DIR$/4-day04/homework/math/modifyUser.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-day04/homework/math/queryUser.go" beforeDir="false" afterPath="$PROJECT_DIR$/4-day04/homework/math/queryUser.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +25,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" url="file://$PROJECT_DIR$/../../Go" />
+  <component name="GOROOT" url="file:///usr/local/go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
@@ -37,6 +37,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/4-day04/codes/14-testbase64/mian.go" root0="FORCE_HIGHLIGHTING" />
@@ -196,6 +199,9 @@
     <MESSAGE value="[master]twwt" />
     <MESSAGE value="[master]共享空间" />
     <option name="LAST_COMMIT_MESSAGE" value="[master]共享空间" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

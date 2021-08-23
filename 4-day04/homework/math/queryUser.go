@@ -2,7 +2,7 @@ package math
 
 import "fmt"
 
-func queryUser()  {
+func QueryUser()  {
 	fmt.Println("queryUser")
 	if len(users) == 0{
 		fmt.Println("用户为空")

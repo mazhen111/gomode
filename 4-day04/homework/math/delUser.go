@@ -5,7 +5,8 @@ import (
 	"strconv"
 )
 
-func delUser ()  {
+
+func DelUser ()  {
 fmt.Println("delUser")
 fmt.Println(users)
 if len(users) ==0{
