@@ -23,6 +23,7 @@ func main() {
 	format :="2006-01-02 15:04:05"
 	times := now.Format(format)
 	fmt.Println(times)
+	//time.Sleep(30000000000000000)
 	//2018-01-02 16:05 - 年-月-日 (24h)时:分 -> 2006-01-02 15:04
 	t1, err := time.Parse("2006-01-02 15:04:05",times)
 	fmt.Println(t1,err)
