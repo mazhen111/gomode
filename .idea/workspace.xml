@@ -5,122 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7097630a-12af-418e-b90b-09d2642f9638" name="默认变更列表" comment="[master]共享空间">
-      <change afterPath="$PROJECT_DIR$/day04/codes/1-tespkg/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/1_type.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/3_struct.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/5_structvalue.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/6-anoyme.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-day01/1-var.go" beforeDir="false" afterPath="$PROJECT_DIR$/day01/1-var.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-day01/10-if.go" beforeDir="false" afterPath="$PROJECT_DIR$/day01/10-if.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-day01/11-ifelse.go" beforeDir="false" afterPath="$PROJECT_DIR$/day01/11-ifelse.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-day01/12-ifv2.go" beforeDir="false" afterPath="$PROJECT_DIR$/day01/12-ifv2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-day01/13_switch.go" beforeDir="false" afterPath="$PROJECT_DIR$/day01/13_switch.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-day01/14-switchv2.go" beforeDir="false" afterPath="$PROJECT_DIR$/day01/14-switchv2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-day01/15-switchv3.go" beforeDir="false" afterPath="$PROJECT_DIR$/day01/15-switchv3.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-day01/16-for.go" beforeDir="false" afterPath="$PROJECT_DIR$/day01/16-for.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-day01/17-forrange.go" beforeDir="false" afterPath="$PROJECT_DIR$/day01/17-forrange.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-day01/18-loop.go" beforeDir="false" afterPath="$PROJECT_DIR$/day01/18-loop.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-day01/19-const.go" beforeDir="false" afterPath="$PROJECT_DIR$/day01/19-const.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-day01/2-scope .go" beforeDir="false" afterPath="$PROJECT_DIR$/day01/2-scope .go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-day01/20-break.go" beforeDir="false" afterPath="$PROJECT_DIR$/day01/20-break.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-day01/21-continue1.go" beforeDir="false" afterPath="$PROJECT_DIR$/day01/21-continue1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-day01/3-debug.go" beforeDir="false" afterPath="$PROJECT_DIR$/day01/3-debug.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-day01/4-iowriter.go" beforeDir="false" afterPath="$PROJECT_DIR$/day01/4-iowriter.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-day01/5-ioreader.go" beforeDir="false" afterPath="$PROJECT_DIR$/day01/5-ioreader.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-day01/6-bool.go" beforeDir="false" afterPath="$PROJECT_DIR$/day01/6-bool.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-day01/7-int.go" beforeDir="false" afterPath="$PROJECT_DIR$/day01/7-int.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-day01/8-float.go" beforeDir="false" afterPath="$PROJECT_DIR$/day01/8-float.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-day01/9-string.go" beforeDir="false" afterPath="$PROJECT_DIR$/day01/9-string.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-day01/task/22-multiplication.go" beforeDir="false" afterPath="$PROJECT_DIR$/day01/task/22-multiplication.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-day01/task/23-game.go" beforeDir="false" afterPath="$PROJECT_DIR$/day01/task/23-game.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-day02/1-array.go" beforeDir="false" afterPath="$PROJECT_DIR$/day02/1-array.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-day02/10-silceopv3.go" beforeDir="false" afterPath="$PROJECT_DIR$/day02/10-silceopv3.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-day02/11-queue.go" beforeDir="false" afterPath="$PROJECT_DIR$/day02/11-queue.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-day02/12-stack.go" beforeDir="false" afterPath="$PROJECT_DIR$/day02/12-stack.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-day02/13-mslice.go" beforeDir="false" afterPath="$PROJECT_DIR$/day02/13-mslice.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-day02/14-map.go" beforeDir="false" afterPath="$PROJECT_DIR$/day02/14-map.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-day02/15-stat.go" beforeDir="false" afterPath="$PROJECT_DIR$/day02/15-stat.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-day02/16-point.go" beforeDir="false" afterPath="$PROJECT_DIR$/day02/16-point.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-day02/17-fmt.go" beforeDir="false" afterPath="$PROJECT_DIR$/day02/17-fmt.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-day02/18-string.go" beforeDir="false" afterPath="$PROJECT_DIR$/day02/18-string.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-day02/19-strings.go" beforeDir="false" afterPath="$PROJECT_DIR$/day02/19-strings.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-day02/2-marray.go" beforeDir="false" afterPath="$PROJECT_DIR$/day02/2-marray.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-day02/3-slice.go" beforeDir="false" afterPath="$PROJECT_DIR$/day02/3-slice.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-day02/4-sliceappend.go" beforeDir="false" afterPath="$PROJECT_DIR$/day02/4-sliceappend.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-day02/5-sliceappendv2.go" beforeDir="false" afterPath="$PROJECT_DIR$/day02/5-sliceappendv2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-day02/6-silcemake.go" beforeDir="false" afterPath="$PROJECT_DIR$/day02/6-silcemake.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-day02/7-capyaeeay.go" beforeDir="false" afterPath="$PROJECT_DIR$/day02/7-capyaeeay.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-day02/8-silceop.go" beforeDir="false" afterPath="$PROJECT_DIR$/day02/8-silceop.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-day02/9-silceopv2.go" beforeDir="false" afterPath="$PROJECT_DIR$/day02/9-silceopv2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-day02/task/h1.go" beforeDir="false" afterPath="$PROJECT_DIR$/day02/task/h1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-day02/task/h2.go" beforeDir="false" afterPath="$PROJECT_DIR$/day02/task/h2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-day02/task/h3.go" beforeDir="false" afterPath="$PROJECT_DIR$/day02/task/h3.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-day03/code/1-func.go" beforeDir="false" afterPath="$PROJECT_DIR$/day03/code/1-func.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-day03/code/10-lambda.go" beforeDir="false" afterPath="$PROJECT_DIR$/day03/code/10-lambda.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-day03/code/11-closer.go" beforeDir="false" afterPath="$PROJECT_DIR$/day03/code/11-closer.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-day03/code/12-return.go" beforeDir="false" afterPath="$PROJECT_DIR$/day03/code/12-return.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-day03/code/13-error.go" beforeDir="false" afterPath="$PROJECT_DIR$/day03/code/13-error.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-day03/code/14-defer.go" beforeDir="false" afterPath="$PROJECT_DIR$/day03/code/14-defer.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-day03/code/15-deferv2.go" beforeDir="false" afterPath="$PROJECT_DIR$/day03/code/15-deferv2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-day03/code/16-deferv3.go" beforeDir="false" afterPath="$PROJECT_DIR$/day03/code/16-deferv3.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-day03/code/17-deferv3.go" beforeDir="false" afterPath="$PROJECT_DIR$/day03/code/17-deferv3.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-day03/code/18-scope.go" beforeDir="false" afterPath="$PROJECT_DIR$/day03/code/18-scope.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-day03/code/19-vtype.go" beforeDir="false" afterPath="$PROJECT_DIR$/day03/code/19-vtype.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-day03/code/2-params.go" beforeDir="false" afterPath="$PROJECT_DIR$/day03/code/2-params.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-day03/code/20-vtpe1.go" beforeDir="false" afterPath="$PROJECT_DIR$/day03/code/20-vtpe1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-day03/code/21-vtpe2.go" beforeDir="false" afterPath="$PROJECT_DIR$/day03/code/21-vtpe2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-day03/code/22-panic.go" beforeDir="false" afterPath="$PROJECT_DIR$/day03/code/22-panic.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-day03/code/3-returns.go" beforeDir="false" afterPath="$PROJECT_DIR$/day03/code/3-returns.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-day03/code/4-Bubbling.go" beforeDir="false" afterPath="$PROJECT_DIR$/day03/code/4-Bubbling.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-day03/code/5-fact.go" beforeDir="false" afterPath="$PROJECT_DIR$/day03/code/5-fact.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-day03/code/6-tower.go" beforeDir="false" afterPath="$PROJECT_DIR$/day03/code/6-tower.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-day03/code/7-typev1.go" beforeDir="false" afterPath="$PROJECT_DIR$/day03/code/7-typev1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-day03/code/8-typev2.go" beforeDir="false" afterPath="$PROJECT_DIR$/day03/code/8-typev2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-day03/code/9-type.go" beforeDir="false" afterPath="$PROJECT_DIR$/day03/code/9-type.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-day03/homework/usermanager.go" beforeDir="false" afterPath="$PROJECT_DIR$/day03/homework/usermanager.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/1-tespkg/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/1-tespkg/math.go" beforeDir="false" afterPath="$PROJECT_DIR$/day05/2_alias.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/10-testos/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/day04/codes/10-testos/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/10-testos/main" beforeDir="false" afterPath="$PROJECT_DIR$/day04/codes/10-testos/main" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/10-testos/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day04/codes/10-testos/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/11-testflag/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/day04/codes/11-testflag/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/11-testflag/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day04/codes/11-testflag/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/12-testime/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/day04/codes/12-testime/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/12-testime/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day04/codes/12-testime/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/13-testhash/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/day04/codes/13-testhash/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/13-testhash/mian.go" beforeDir="false" afterPath="$PROJECT_DIR$/day04/codes/13-testhash/mian.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/14-testbase64/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/day04/codes/14-testbase64/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/14-testbase64/mian.go" beforeDir="false" afterPath="$PROJECT_DIR$/day04/codes/14-testbase64/mian.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/2-tespkgv2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day04/codes/2-tespkgv2/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/2-tespkgv2/math/math.go" beforeDir="false" afterPath="$PROJECT_DIR$/day04/codes/2-tespkgv2/math/math.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/3-testmod/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/day04/codes/3-testmod/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/3-testmod/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day04/codes/3-testmod/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/3-testmod/math/math.go" beforeDir="false" afterPath="$PROJECT_DIR$/day04/codes/3-testmod/math/math.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/5-usemain/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/day04/codes/5-usemain/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/5-usemain/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/day04/codes/5-usemain/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/5-usemain/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day04/codes/5-usemain/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/6-testimport/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/day04/codes/6-testimport/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/6-testimport/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/day04/codes/6-testimport/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/6-testimport/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day04/codes/6-testimport/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/7-pkgvar/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/day04/codes/7-pkgvar/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/7-pkgvar/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day04/codes/7-pkgvar/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/7-pkgvar/testpkg/t1.go" beforeDir="false" afterPath="$PROJECT_DIR$/day04/codes/7-pkgvar/testpkg/t1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/8-testmultpkg/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/day04/codes/8-testmultpkg/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/8-testmultpkg/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day04/codes/8-testmultpkg/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/8-testmultpkg/pkga/test.go" beforeDir="false" afterPath="$PROJECT_DIR$/day04/codes/8-testmultpkg/pkga/test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/8-testmultpkg/pkgb/test1.go" beforeDir="false" afterPath="$PROJECT_DIR$/day04/codes/8-testmultpkg/pkgb/test1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/9-testmain/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/day04/codes/9-testmain/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/9-testmain/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day04/codes/9-testmain/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/9-testmain/pkg/test.go" beforeDir="false" afterPath="$PROJECT_DIR$/day04/codes/9-testmain/pkg/test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/9-testmain/pkg/testa.go" beforeDir="false" afterPath="$PROJECT_DIR$/day04/codes/9-testmain/pkg/testa.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/mathtest/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/day04/codes/mathtest/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/codes/mathtest/mash.go" beforeDir="false" afterPath="$PROJECT_DIR$/day04/codes/mathtest/mash.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/homework/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/day04/homework/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/homework/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day04/homework/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/homework/math/addUser.go" beforeDir="false" afterPath="$PROJECT_DIR$/day04/homework/math/addUser.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/homework/math/delUser.go" beforeDir="false" afterPath="$PROJECT_DIR$/day04/homework/math/delUser.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/homework/math/modifyUser.go" beforeDir="false" afterPath="$PROJECT_DIR$/day04/homework/math/modifyUser.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/homework/math/queryUser.go" beforeDir="false" afterPath="$PROJECT_DIR$/day04/homework/math/queryUser.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-day04/homework/math/userlogin.go" beforeDir="false" afterPath="$PROJECT_DIR$/day04/homework/math/userlogin.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/4_pstruct.go" beforeDir="false" afterPath="$PROJECT_DIR$/day05/4_pstruct.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,7 +86,7 @@
       <recent name="$PROJECT_DIR$/1-day01/作业" />
     </key>
   </component>
-  <component name="RunManager" selected="Go 构建.go build 3_struct.go">
+  <component name="RunManager" selected="Go 构建.go build 6-anoyme.go">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="gomode" />
       <working_directory value="$PROJECT_DIR$" />
@@ -206,14 +94,6 @@
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build 1_type.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day05/1_type.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build 2_alias.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -232,21 +112,28 @@
       <filePath value="$PROJECT_DIR$/day05/3_struct.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build homework" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$/day04/homework" />
-      <kind value="PACKAGE" />
-      <package value="homework" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day04/homework/main.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build test.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 4_pstruct.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gomode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/4-day04/codes/test.go" />
+      <filePath value="$PROJECT_DIR$/day05/4_pstruct.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 5_structvalue.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gomode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/day05/5_structvalue.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 6-anoyme.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gomode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/day05/6-anoyme.go" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
@@ -261,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go 构建.go build 6-anoyme.go" />
+        <item itemvalue="Go 构建.go build 5_structvalue.go" />
+        <item itemvalue="Go 构建.go build 4_pstruct.go" />
         <item itemvalue="Go 构建.go build 3_struct.go" />
         <item itemvalue="Go 构建.go build 2_alias.go" />
-        <item itemvalue="Go 构建.go build 1_type.go" />
-        <item itemvalue="Go 构建.go build homework" />
-        <item itemvalue="Go 构建.go build test.go" />
       </list>
     </recent_temporary>
   </component>
