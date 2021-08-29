@@ -20,9 +20,9 @@ func main() {
 	user.name = "kk"
 	fmt.Printf("%T, %#v\n", user, user)
 
+	// 字面量
 	// 初始化
 	// 零值
-	// 字面量
 	user = struct {
 		id       int
 		name     string
