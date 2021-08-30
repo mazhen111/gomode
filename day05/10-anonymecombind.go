@@ -7,16 +7,16 @@ import (
 
 type Addr struct {
 	province string
-	street string
-	no string
+	street   string
+	no       string
 }
 type Tel struct {
-	prefix string
+	prefix   string
 	number   string
 	province string
-
 }
-// 匿名组合方式
+
+// User 匿名组合方式
 type User struct {
 	id       int
 	name     string
@@ -26,10 +26,9 @@ type User struct {
 	province string
 }
 
-
 func main() {
 
-	user:=User{Addr:Addr{province: "马振"}}
+	user := User{Addr: Addr{province: "马振"}}
 	fmt.Printf("%T, %#v\n", user, user)
 	user.province = "北京市"
 	fmt.Println(user.province)
