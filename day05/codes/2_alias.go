@@ -1,7 +1,8 @@
 package main
 
 import "fmt"
-type Counter =int
+
+type Counter = int
 
 func main() {
 	fmt.Println("11")
@@ -17,4 +18,3 @@ func main() {
 	fmt.Printf("%T, %T", r, b)
 
 }
-

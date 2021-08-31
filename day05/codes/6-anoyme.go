@@ -8,7 +8,7 @@ import (
 //匿名结构体
 func main() {
 	//定义匿名结构体的变量
-	var user struct{
+	var user struct {
 		id       int
 		name     string
 		tel      string

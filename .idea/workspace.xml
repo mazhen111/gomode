@@ -4,18 +4,25 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7097630a-12af-418e-b90b-09d2642f9638" name="默认变更列表" comment="[master]共享空间">
+    <list default="true" id="7097630a-12af-418e-b90b-09d2642f9638" name="默认变更列表" comment="">
+      <change afterPath="$PROJECT_DIR$/day05/codes/methods/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/codes/methods/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/codes/methods/models/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/codes/methodsv1/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/codes/methodsv1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/codes/methodsv1/models/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/codes/visibility/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/codes/visibility/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/codes/visibility/models/user.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05/10-anonymecombind.go" beforeDir="false" afterPath="$PROJECT_DIR$/day05/codes/10-anonymecombind.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05/1_type.go" beforeDir="false" afterPath="$PROJECT_DIR$/day05/codes/1_type.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05/2_alias.go" beforeDir="false" afterPath="$PROJECT_DIR$/day05/codes/2_alias.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05/3_struct.go" beforeDir="false" afterPath="$PROJECT_DIR$/day05/codes/3_struct.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05/4_pstruct.go" beforeDir="false" afterPath="$PROJECT_DIR$/day05/codes/4_pstruct.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05/5_structvalue.go" beforeDir="false" afterPath="$PROJECT_DIR$/day05/codes/5_structvalue.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05/6-anoyme.go" beforeDir="false" afterPath="$PROJECT_DIR$/day05/codes/6-anoyme.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05/7-pcombind.go" beforeDir="false" afterPath="$PROJECT_DIR$/day05/codes/7-pcombind.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05/8-panonymecombind.go" beforeDir="false" afterPath="$PROJECT_DIR$/day05/codes/8-panonymecombind.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05/9-anoymecombind.go" beforeDir="false" afterPath="$PROJECT_DIR$/day05/codes/9-anoymecombind.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/codes/1_type.go" beforeDir="false" afterPath="$PROJECT_DIR$/day05/codes/1_type.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/codes/2_alias.go" beforeDir="false" afterPath="$PROJECT_DIR$/day05/codes/2_alias.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/codes/3_struct.go" beforeDir="false" afterPath="$PROJECT_DIR$/day05/codes/3_struct.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/codes/5_structvalue.go" beforeDir="false" afterPath="$PROJECT_DIR$/day05/codes/5_structvalue.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/codes/6-anoyme.go" beforeDir="false" afterPath="$PROJECT_DIR$/day05/codes/6-anoyme.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/codes/7-pcombind.go" beforeDir="false" afterPath="$PROJECT_DIR$/day05/codes/7-pcombind.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/codes/8-panonymecombind.go" beforeDir="false" afterPath="$PROJECT_DIR$/day05/codes/8-panonymecombind.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/codes/9-anoymecombind.go" beforeDir="false" afterPath="$PROJECT_DIR$/day05/codes/9-anoymecombind.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +77,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day05/codes/methodsv1/models" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -79,21 +86,21 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day05/codes/methodsv1/models" />
+      <recent name="$PROJECT_DIR$/day05/codes/methodsv1" />
+      <recent name="$PROJECT_DIR$/day05/codes" />
       <recent name="$PROJECT_DIR$/4-day04/codes/8-testmultpkg/pkgb" />
       <recent name="$PROJECT_DIR$/4-day04/codes/8-testmultpkg" />
-      <recent name="$PROJECT_DIR$/4-day04/codes/3-testmod/math" />
-      <recent name="$PROJECT_DIR$/4-day04/codes/3-testmod" />
-      <recent name="$PROJECT_DIR$/4-day04/codes" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day05/codes" />
       <recent name="$PROJECT_DIR$/4-day04/codes/3-testmod/math" />
       <recent name="$PROJECT_DIR$/4-day04/codes/3-testmod" />
       <recent name="$PROJECT_DIR$/4-day04/codes/2-tespkgv2/math" />
       <recent name="$PROJECT_DIR$/2-day02/task" />
-      <recent name="$PROJECT_DIR$/1-day01/作业" />
     </key>
   </component>
-  <component name="RunManager" selected="Go 构建.go build 9-anoymecombind.go">
+  <component name="RunManager" selected="Go 构建.go build main.go (2)">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="gomode" />
       <working_directory value="$PROJECT_DIR$" />
@@ -103,44 +110,45 @@
       <filePath value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 3_struct.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day05/3_struct.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build 4_pstruct.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day05/4_pstruct.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build 5_structvalue.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day05/5_structvalue.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build 6-anoyme.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day05/6-anoyme.go" />
-      <method v="2" />
-    </configuration>
     <configuration name="go build 9-anoymecombind.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gomode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/day05/9-anoymecombind.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gomode" />
+      <working_directory value="$PROJECT_DIR$/day05/codes/methods" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/day05/codes/methods/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gomode" />
+      <working_directory value="$PROJECT_DIR$/day05/codes/methodsv1" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/day05/codes/methodsv1/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gomode" />
+      <working_directory value="$PROJECT_DIR$/day05/codes/visibility" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/day05/codes/visibility/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build methods" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gomode" />
+      <working_directory value="$PROJECT_DIR$/day05/codes/methods" />
+      <kind value="PACKAGE" />
+      <package value="methods" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/day05/codes/methods/main.go" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
@@ -155,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go 构建.go build main.go (2)" />
+        <item itemvalue="Go 构建.go build main.go (1)" />
+        <item itemvalue="Go 构建.go build methods" />
+        <item itemvalue="Go 构建.go build main.go" />
         <item itemvalue="Go 构建.go build 9-anoymecombind.go" />
-        <item itemvalue="Go 构建.go build 6-anoyme.go" />
-        <item itemvalue="Go 构建.go build 5_structvalue.go" />
-        <item itemvalue="Go 构建.go build 4_pstruct.go" />
-        <item itemvalue="Go 构建.go build 3_struct.go" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +220,8 @@
     </ignored-roots>
     <MESSAGE value="[master]twwt" />
     <MESSAGE value="[master]共享空间" />
-    <option name="LAST_COMMIT_MESSAGE" value="[master]共享空间" />
+    <MESSAGE value="[master]更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="[master]更新" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
