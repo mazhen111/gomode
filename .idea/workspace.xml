@@ -5,24 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7097630a-12af-418e-b90b-09d2642f9638" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/day05/codes/methods/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/codes/methods/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/codes/methods/models/user.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/codes/methodsv1/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/codes/methodsv1/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/codes/methodsv1/models/user.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/codes/visibility/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/codes/visibility/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/codes/visibility/models/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/codes/11-anonymemethodcombind.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/codes/12-methodobjattr.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05/codes/1_type.go" beforeDir="false" afterPath="$PROJECT_DIR$/day05/codes/1_type.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05/codes/2_alias.go" beforeDir="false" afterPath="$PROJECT_DIR$/day05/codes/2_alias.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05/codes/3_struct.go" beforeDir="false" afterPath="$PROJECT_DIR$/day05/codes/3_struct.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05/codes/5_structvalue.go" beforeDir="false" afterPath="$PROJECT_DIR$/day05/codes/5_structvalue.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05/codes/6-anoyme.go" beforeDir="false" afterPath="$PROJECT_DIR$/day05/codes/6-anoyme.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05/codes/7-pcombind.go" beforeDir="false" afterPath="$PROJECT_DIR$/day05/codes/7-pcombind.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05/codes/8-panonymecombind.go" beforeDir="false" afterPath="$PROJECT_DIR$/day05/codes/8-panonymecombind.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day05/codes/9-anoymecombind.go" beforeDir="false" afterPath="$PROJECT_DIR$/day05/codes/9-anoymecombind.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +85,7 @@
       <recent name="$PROJECT_DIR$/2-day02/task" />
     </key>
   </component>
-  <component name="RunManager" selected="Go 构建.go build main.go (2)">
+  <component name="RunManager" selected="Go 构建.go build 12-methodobjattr.go">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="gomode" />
       <working_directory value="$PROJECT_DIR$" />
@@ -110,12 +95,20 @@
       <filePath value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 9-anoymecombind.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 11-anonymemethodcombind.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gomode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day05/9-anoymecombind.go" />
+      <filePath value="$PROJECT_DIR$/day05/codes/11-anonymemethodcombind.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 12-methodobjattr.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gomode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/day05/codes/12-methodobjattr.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -132,14 +125,6 @@
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/day05/codes/methodsv1/main.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$/day05/codes/visibility" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day05/codes/visibility/main.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build methods" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -163,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go 构建.go build 12-methodobjattr.go" />
+        <item itemvalue="Go 构建.go build 11-anonymemethodcombind.go" />
         <item itemvalue="Go 构建.go build main.go (2)" />
         <item itemvalue="Go 构建.go build main.go (1)" />
         <item itemvalue="Go 构建.go build methods" />
-        <item itemvalue="Go 构建.go build main.go" />
-        <item itemvalue="Go 构建.go build 9-anoymecombind.go" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +206,8 @@
     <MESSAGE value="[master]twwt" />
     <MESSAGE value="[master]共享空间" />
     <MESSAGE value="[master]更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="[master]更新" />
+    <MESSAGE value="[master]更新结构体" />
+    <option name="LAST_COMMIT_MESSAGE" value="[master]更新结构体" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
