@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7097630a-12af-418e-b90b-09d2642f9638" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/day05/codes/11-anonymemethodcombind.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/codes/12-methodobjattr.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +21,11 @@
   </component>
   <component name="GOROOT" url="file:///usr/local/go" />
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="mazhen &lt;18601291594@163.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
   </component>
@@ -62,7 +65,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day05/codes/methodsv1/models" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day05" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -71,11 +74,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day05" />
       <recent name="$PROJECT_DIR$/day05/codes/methodsv1/models" />
       <recent name="$PROJECT_DIR$/day05/codes/methodsv1" />
       <recent name="$PROJECT_DIR$/day05/codes" />
       <recent name="$PROJECT_DIR$/4-day04/codes/8-testmultpkg/pkgb" />
-      <recent name="$PROJECT_DIR$/4-day04/codes/8-testmultpkg" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/day05/codes" />
@@ -85,7 +88,7 @@
       <recent name="$PROJECT_DIR$/2-day02/task" />
     </key>
   </component>
-  <component name="RunManager" selected="Go 构建.go build 12-methodobjattr.go">
+  <component name="RunManager" selected="Go 构建.go build user.go">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="gomode" />
       <working_directory value="$PROJECT_DIR$" />
@@ -111,12 +114,13 @@
       <filePath value="$PROJECT_DIR$/day05/codes/12-methodobjattr.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build homework" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$/day05/codes/methods" />
-      <kind value="FILE" />
+      <working_directory value="$PROJECT_DIR$/day05/homework" />
+      <kind value="PACKAGE" />
+      <package value="homework" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day05/codes/methods/main.go" />
+      <filePath value="$PROJECT_DIR$/day05/homework/main.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build main.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -127,13 +131,12 @@
       <filePath value="$PROJECT_DIR$/day05/codes/methodsv1/main.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build methods" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build user.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$/day05/codes/methods" />
-      <kind value="PACKAGE" />
-      <package value="methods" />
+      <working_directory value="$PROJECT_DIR$/day05/homework" />
+      <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day05/codes/methods/main.go" />
+      <filePath value="$PROJECT_DIR$/day05/homework/math/user.go" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
@@ -148,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go 构建.go build user.go" />
+        <item itemvalue="Go 构建.go build homework" />
         <item itemvalue="Go 构建.go build 12-methodobjattr.go" />
         <item itemvalue="Go 构建.go build 11-anonymemethodcombind.go" />
         <item itemvalue="Go 构建.go build main.go (2)" />
-        <item itemvalue="Go 构建.go build main.go (1)" />
-        <item itemvalue="Go 构建.go build methods" />
       </list>
     </recent_temporary>
   </component>
@@ -208,6 +211,7 @@
     <MESSAGE value="[master]更新" />
     <MESSAGE value="[master]更新结构体" />
     <option name="LAST_COMMIT_MESSAGE" value="[master]更新结构体" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
