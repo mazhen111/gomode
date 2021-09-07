@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7097630a-12af-418e-b90b-09d2642f9638" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/day06/codes/1-filereader/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/codes/1-filereader/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/codes/1-filereader/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/codes/2-filewriter/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/codes/2-filewriter/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/codes/2-filewriter/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/codes/3-stdio/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/codes/3-stdio/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/codes/4-openfile/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/codes/4-openfile/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/codes/4-openfile/test.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/codes/5-filerw/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/codes/5-filerw/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/codes/5-filerw/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +53,11 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/day04/codes/14-testbase64/mian.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day06/codes/1-filereader/main.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day06/codes/3-stdio/go.mod" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day06/codes/3-stdio/main.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day06/codes/4-openfile/go.mod" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day06/codes/4-openfile/main.go" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1tNrOYlbUXjmSQBrWBpml0tyE86" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -101,46 +114,46 @@
       <filePath value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 1-filereader" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 3-stdio" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$/day06/codes/1-filereader" />
+      <working_directory value="$PROJECT_DIR$/day06/codes/3-stdio" />
       <kind value="PACKAGE" />
-      <package value="1-filereader" />
+      <package value="3-stdio" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day06/codes/1-filereader/main.go" />
+      <filePath value="$PROJECT_DIR$/day06/codes/3-stdio/main.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 12-methodobjattr.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 4-openfile" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$" />
+      <working_directory value="$PROJECT_DIR$/day06/codes/4-openfile" />
+      <kind value="PACKAGE" />
+      <package value="4-openfile" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/day06/codes/4-openfile/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gomode" />
+      <working_directory value="$PROJECT_DIR$/day06/codes/3-stdio" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day05/codes/12-methodobjattr.go" />
+      <filePath value="$PROJECT_DIR$/day06/codes/3-stdio/main.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build homework" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build main.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$/day05/homework" />
-      <kind value="PACKAGE" />
-      <package value="homework" />
+      <working_directory value="$PROJECT_DIR$/day06/codes/4-openfile" />
+      <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day05/homework/main.go" />
+      <filePath value="$PROJECT_DIR$/day06/codes/4-openfile/main.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$/day06/codes/1-filereader" />
+      <working_directory value="$PROJECT_DIR$/day06/codes/5-filerw" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day06/codes/1-filereader/main.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build user.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$/day05/homework" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day05/homework/math/user.go" />
+      <filePath value="$PROJECT_DIR$/day06/codes/5-filerw/main.go" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
@@ -156,10 +169,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Go 构建.go build main.go" />
-        <item itemvalue="Go 构建.go build 1-filereader" />
-        <item itemvalue="Go 构建.go build 12-methodobjattr.go" />
-        <item itemvalue="Go 构建.go build user.go" />
-        <item itemvalue="Go 构建.go build homework" />
+        <item itemvalue="Go 构建.go build main.go (3)" />
+        <item itemvalue="Go 构建.go build 4-openfile" />
+        <item itemvalue="Go 构建.go build main.go (2)" />
+        <item itemvalue="Go 构建.go build 3-stdio" />
       </list>
     </recent_temporary>
   </component>
