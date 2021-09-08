@@ -5,17 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7097630a-12af-418e-b90b-09d2642f9638" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/day06/codes/2-filewriter/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/codes/2-filewriter/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/codes/2-filewriter/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/codes/3-stdio/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/codes/3-stdio/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/codes/4-openfile/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/codes/4-openfile/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/codes/4-openfile/test.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/codes/5-filerw/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/codes/5-filerw/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/codes/5-filerw/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/codes/10-fileop/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/codes/10-fileop/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/codes/11-utlis/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/codes/11-utlis/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/codes/11-utlis/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/codes/6-scan/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/codes/6-scan/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/codes/7-testscanner/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/codes/7-testscanner/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/codes/8-testwriter/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/codes/8-testwriter/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/codes/9-file/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/codes/9-file/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/codes/9-file/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/codes/9-file/test/1.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +108,7 @@
       <recent name="$PROJECT_DIR$/2-day02/task" />
     </key>
   </component>
-  <component name="RunManager" selected="Go 构建.go build main.go">
+  <component name="RunManager" selected="Go 构建.go build main.go (1)">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="gomode" />
       <working_directory value="$PROJECT_DIR$" />
@@ -114,46 +118,46 @@
       <filePath value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 3-stdio" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 8-testwriter" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$/day06/codes/3-stdio" />
+      <working_directory value="$PROJECT_DIR$/day06/codes/8-testwriter" />
       <kind value="PACKAGE" />
-      <package value="3-stdio" />
+      <package value="8-testwriter" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day06/codes/3-stdio/main.go" />
+      <filePath value="$PROJECT_DIR$/day06/codes/8-testwriter/main.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 4-openfile" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 9-file" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$/day06/codes/4-openfile" />
+      <working_directory value="$PROJECT_DIR$/day06/codes/9-file" />
       <kind value="PACKAGE" />
-      <package value="4-openfile" />
+      <package value="9-file" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day06/codes/4-openfile/main.go" />
+      <filePath value="$PROJECT_DIR$/day06/codes/9-file/main.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build main.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$/day06/codes/3-stdio" />
+      <working_directory value="$PROJECT_DIR$/day06/codes/11-utlis" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day06/codes/3-stdio/main.go" />
+      <filePath value="$PROJECT_DIR$/day06/codes/11-utlis/main.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build main.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$/day06/codes/4-openfile" />
+      <working_directory value="$PROJECT_DIR$/day06/codes/10-fileop" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day06/codes/4-openfile/main.go" />
+      <filePath value="$PROJECT_DIR$/day06/codes/10-fileop/main.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$/day06/codes/5-filerw" />
+      <working_directory value="$PROJECT_DIR$/day06/codes/9-file" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day06/codes/5-filerw/main.go" />
+      <filePath value="$PROJECT_DIR$/day06/codes/9-file/main.go" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
@@ -168,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go 构建.go build main.go" />
+        <item itemvalue="Go 构建.go build main.go (1)" />
         <item itemvalue="Go 构建.go build main.go (3)" />
-        <item itemvalue="Go 构建.go build 4-openfile" />
-        <item itemvalue="Go 构建.go build main.go (2)" />
-        <item itemvalue="Go 构建.go build 3-stdio" />
+        <item itemvalue="Go 构建.go build main.go" />
+        <item itemvalue="Go 构建.go build 9-file" />
+        <item itemvalue="Go 构建.go build 8-testwriter" />
       </list>
     </recent_temporary>
   </component>
@@ -281,6 +285,11 @@
           <url>file://$PROJECT_DIR$/day03/code/6-tower.go</url>
           <line>27</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/day06/codes/10-fileop/main.go</url>
+          <line>32</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
