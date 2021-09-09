@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7097630a-12af-418e-b90b-09d2642f9638" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/day06/codes/11-utlis/test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/codes/12-filepath/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/codes/12-filepath/a.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/codes/12-filepath/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/codes/12-filepath/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/codes/13-fileforemat/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/codes/13-fileforemat/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/codes/13-fileforemat/readgob.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/codes/13-fileforemat/users.gob" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day06/codes/11-utlis/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/day06/codes/11-utlis/1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day06/codes/11-utlis/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day06/codes/11-utlis/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day06/codes/13-fileforemat/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day06/codes/13-fileforemat/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,7 +217,8 @@
     <MESSAGE value="[master]更新结构体" />
     <MESSAGE value="[master]更新结构体test" />
     <MESSAGE value="[master]文件操作" />
-    <option name="LAST_COMMIT_MESSAGE" value="[master]文件操作" />
+    <MESSAGE value="[master]gob文件操作" />
+    <option name="LAST_COMMIT_MESSAGE" value="[master]gob文件操作" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="VgoProject">
