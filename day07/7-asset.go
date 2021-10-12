@@ -100,5 +100,4 @@ func main() {
 	default:
 		fmt.Println("default")
 	}
-
 }
