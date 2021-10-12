@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7097630a-12af-418e-b90b-09d2642f9638" name="默认变更列表" comment="">
+      <change afterPath="$PROJECT_DIR$/day07/8-combind.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/7-asset.go" beforeDir="false" afterPath="$PROJECT_DIR$/day07/7-asset.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +100,7 @@
       <recent name="$PROJECT_DIR$/4-day04/codes/2-tespkgv2/math" />
     </key>
   </component>
-  <component name="RunManager" selected="Go 构建.go build 7-asset.go">
+  <component name="RunManager" selected="Go 构建.go build 8-combind.go">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="gomode" />
       <working_directory value="$PROJECT_DIR$" />
@@ -116,14 +116,6 @@
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/day03/code/15-deferv2.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build 16-deferv3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day03/code/16-deferv3.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build 5-interface.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -150,6 +142,14 @@
       <filePath value="$PROJECT_DIR$/day07/7-asset.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build 8-combind.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gomode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/day07/8-combind.go" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
       <module name="gomode" />
       <working_directory value="$PROJECT_DIR$" />
@@ -162,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go 构建.go build 8-combind.go" />
         <item itemvalue="Go 构建.go build 7-asset.go" />
         <item itemvalue="Go 构建.go build 6-sender.go" />
         <item itemvalue="Go 构建.go build 5-interface.go" />
         <item itemvalue="Go 构建.go build 15-deferv2.go" />
-        <item itemvalue="Go 构建.go build 16-deferv3.go" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +228,8 @@
     <MESSAGE value="[master]gob文件操作csv" />
     <MESSAGE value="[master]接口" />
     <MESSAGE value="[master]对象" />
-    <option name="LAST_COMMIT_MESSAGE" value="[master]对象" />
+    <MESSAGE value="[master]映射" />
+    <option name="LAST_COMMIT_MESSAGE" value="[master]映射" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="VgoProject">
