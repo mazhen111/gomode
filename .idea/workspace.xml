@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7097630a-12af-418e-b90b-09d2642f9638" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/day07/8-combind.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day06/codes/13-fileforemat/readcsv.go" beforeDir="false" afterPath="$PROJECT_DIR$/day06/codes/13-fileforemat/readcsv.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/8-combind.go" beforeDir="false" afterPath="$PROJECT_DIR$/day07/8-combind.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +77,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day05" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/poerfile" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -86,21 +87,21 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/poerfile" />
+      <recent name="$PROJECT_DIR$/production" />
       <recent name="$PROJECT_DIR$/day05" />
       <recent name="$PROJECT_DIR$/day05/codes/methodsv1/models" />
       <recent name="$PROJECT_DIR$/day05/codes/methodsv1" />
-      <recent name="$PROJECT_DIR$/day05/codes" />
-      <recent name="$PROJECT_DIR$/4-day04/codes/8-testmultpkg/pkgb" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/poerfile" />
+      <recent name="$PROJECT_DIR$/day06/codes/13-fileforemat" />
+      <recent name="$PROJECT_DIR$/production" />
       <recent name="$PROJECT_DIR$/day07" />
       <recent name="$PROJECT_DIR$/day05/codes" />
-      <recent name="$PROJECT_DIR$/4-day04/codes/3-testmod/math" />
-      <recent name="$PROJECT_DIR$/4-day04/codes/3-testmod" />
-      <recent name="$PROJECT_DIR$/4-day04/codes/2-tespkgv2/math" />
     </key>
   </component>
-  <component name="RunManager" selected="Go 构建.go build 8-combind.go">
+  <component name="RunManager" selected="Go 构建.go build readcsv.go (2)">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="gomode" />
       <working_directory value="$PROJECT_DIR$" />
@@ -110,36 +111,13 @@
       <filePath value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 15-deferv2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 13-fileforemat" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
+      <working_directory value="$PROJECT_DIR$/day06/codes/13-fileforemat" />
+      <kind value="PACKAGE" />
+      <package value="13-fileforemat" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day03/code/15-deferv2.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build 5-interface.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day07/5-interface.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build 6-sender.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day07/6-sender.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build 7-asset.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day07/7-asset.go" />
+      <filePath value="$PROJECT_DIR$/day06/codes/13-fileforemat/readcsv.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build 8-combind.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -148,6 +126,30 @@
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/day07/8-combind.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build readcsv.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gomode" />
+      <working_directory value="$PROJECT_DIR$/day06/codes/13-fileforemat" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/day06/codes/13-fileforemat/readcsv.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build readcsv.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gomode" />
+      <working_directory value="$PROJECT_DIR$/poerfile" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/poerfile/readcsv.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build readcsv.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gomode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/production/readcsv.go" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
@@ -162,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go 构建.go build readcsv.go (2)" />
+        <item itemvalue="Go 构建.go build readcsv.go (1)" />
+        <item itemvalue="Go 构建.go build readcsv.go" />
+        <item itemvalue="Go 构建.go build 13-fileforemat" />
         <item itemvalue="Go 构建.go build 8-combind.go" />
-        <item itemvalue="Go 构建.go build 7-asset.go" />
-        <item itemvalue="Go 构建.go build 6-sender.go" />
-        <item itemvalue="Go 构建.go build 5-interface.go" />
-        <item itemvalue="Go 构建.go build 15-deferv2.go" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +231,8 @@
     <MESSAGE value="[master]接口" />
     <MESSAGE value="[master]对象" />
     <MESSAGE value="[master]映射" />
-    <option name="LAST_COMMIT_MESSAGE" value="[master]映射" />
+    <MESSAGE value="[master]接口11" />
+    <option name="LAST_COMMIT_MESSAGE" value="[master]接口11" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="VgoProject">
