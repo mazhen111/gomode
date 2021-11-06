@@ -47,7 +47,10 @@ func main() {
 	var sender Sender = new(EmailSender)
 	sender.Send("111")
 	var allsender AllSender = new(EmailSender)
-	allsender.SendAll([]string{"aaaaa"})
+	err := allsender.SendAll([]string{"aaaaa"})
+	if err != nil {
+		return
+	}
 	allsender.Send("mazhen")
 	sender = allsender
 	sender.Send("xxxx")
