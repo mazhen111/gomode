@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7097630a-12af-418e-b90b-09d2642f9638" name="默认变更列表" comment="[master]json">
-      <change afterPath="$PROJECT_DIR$/day07/15-jsoner.go" afterDir="false" />
+    <list default="true" id="7097630a-12af-418e-b90b-09d2642f9638" name="默认变更列表" comment="[master]作业">
+      <change afterPath="$PROJECT_DIR$/day07/usermanage/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/usermanage/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/usermanage/model/userinfo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/usermanage/utils/add.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/usermanage/utils/init.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/usermanage/utils/passwd.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/usermanage/utils/utils.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/14-json.go" beforeDir="false" afterPath="$PROJECT_DIR$/day07/14-json.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,17 +49,16 @@
     <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/day07/5-interface.go" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/day06/codes/3-stdio/go.mod" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/day06/codes/13-fileforemat/writegob.go" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/day06/codes/3-stdio/main.go" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/day06/codes/13-fileforemat/user.csv" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day04/codes/14-testbase64/mian.go" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/day06/codes/1-filereader/main.go" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/day06/codes/13-fileforemat/users.gob" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day06/codes/3-stdio/go.mod" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day06/codes/13-fileforemat/user.csv" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day06/codes/3-stdio/main.go" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/day06/codes/4-openfile/go.mod" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/day06/codes/12-filepath/1.txt" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/day06/codes/4-openfile/main.go" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/day04/codes/14-testbase64/mian.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day06/codes/12-filepath/1.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day06/codes/13-fileforemat/writegob.go" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1tNrOYlbUXjmSQBrWBpml0tyE86" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -84,7 +88,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -95,14 +99,14 @@
       <recent name="$PROJECT_DIR$/day05/codes/methodsv1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day07/usermanage" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/poerfile" />
       <recent name="$PROJECT_DIR$/day06/codes/13-fileforemat" />
       <recent name="$PROJECT_DIR$/production" />
-      <recent name="$PROJECT_DIR$/day07" />
     </key>
   </component>
-  <component name="RunManager" selected="Go 构建.go build 15-jsoner.go">
+  <component name="RunManager" selected="Go 构建.go build userinfo.go">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="gomode" />
       <working_directory value="$PROJECT_DIR$" />
@@ -110,6 +114,14 @@
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 10-lambdaempty.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gomode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/day07/10-lambdaempty.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build 11-empty.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -136,20 +148,12 @@
       <filePath value="$PROJECT_DIR$/day07/13-sort.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 14-json.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build userinfo.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$" />
+      <working_directory value="$PROJECT_DIR$/day07/usermanage" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day07/14-json.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build 15-jsoner.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day07/15-jsoner.go" />
+      <filePath value="$PROJECT_DIR$/day07/usermanage/model/userinfo.go" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
@@ -164,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go 构建.go build 15-jsoner.go" />
-        <item itemvalue="Go 构建.go build 14-json.go" />
+        <item itemvalue="Go 构建.go build userinfo.go" />
         <item itemvalue="Go 构建.go build 13-sort.go" />
         <item itemvalue="Go 构建.go build 12-string.go" />
         <item itemvalue="Go 构建.go build 11-empty.go" />
+        <item itemvalue="Go 构建.go build 10-lambdaempty.go" />
       </list>
     </recent_temporary>
   </component>
@@ -218,6 +222,7 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/4-day04/codes/4-testmath" />
       <path value="$PROJECT_DIR$/4-day04/codes/testmath" />
+      <path value="$PROJECT_DIR$/day07/usermanage/tablewriter" />
     </ignored-roots>
     <MESSAGE value="[master]twwt" />
     <MESSAGE value="[master]共享空间" />
@@ -232,8 +237,8 @@
     <MESSAGE value="[master]对象" />
     <MESSAGE value="[master]映射" />
     <MESSAGE value="[master]接口11" />
-    <MESSAGE value="[master]json" />
-    <option name="LAST_COMMIT_MESSAGE" value="[master]json" />
+    <MESSAGE value="[master]作业" />
+    <option name="LAST_COMMIT_MESSAGE" value="[master]作业" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="VgoProject">
@@ -291,6 +296,11 @@
           <url>file://$PROJECT_DIR$/day06/codes/10-fileop/main.go</url>
           <line>32</line>
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/day07/usermanage/tablewriter/table_with_color.go</url>
+          <line>12</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
