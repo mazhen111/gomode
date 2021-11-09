@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7097630a-12af-418e-b90b-09d2642f9638" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/day07/usermanage/utils/del.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/usermanage/utils/judge.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/usermanage/utils/query.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/usermanage/utils/update.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/usermanage/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/day07/usermanage/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/usermanage/utils/add.go" beforeDir="false" afterPath="$PROJECT_DIR$/day07/usermanage/utils/add.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/usermanage/utils/passwd.go" beforeDir="false" afterPath="$PROJECT_DIR$/day07/usermanage/utils/passwd.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -236,7 +233,8 @@
     <MESSAGE value="[master]映射" />
     <MESSAGE value="[master]接口11" />
     <MESSAGE value="[master]作业" />
-    <option name="LAST_COMMIT_MESSAGE" value="[master]作业" />
+    <MESSAGE value="[master]作业(0.1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="[master]作业(0.1)" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="VgoProject">
