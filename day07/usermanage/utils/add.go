@@ -3,6 +3,7 @@ package utils
 import (
 	"fmt"
 	"time"
+	"usermanage/model"
 )
 
 func Add() {
@@ -25,7 +26,15 @@ func Add() {
 		fmt.Println(err)
 		fmt.Println("生日格式不正确无法解析")
 		return
-
 	}
+	//校验密码
+	passwd := SetPasswd(name)
+	user := model.User{id, name, addr, tel, time, passwd}
+	if _, exists := isUserExists(name); exists {
+		fmt.Println("用户已经存在，不再进行添加")
+		return
+	}
+	UsersList = append(UsersList, user)
+	fmt.Printf("操作后用户列表数据为:\n%v", UsersList)
 
 }

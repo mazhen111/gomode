@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7097630a-12af-418e-b90b-09d2642f9638" name="默认变更列表" comment="[master]作业">
-      <change afterPath="$PROJECT_DIR$/day07/usermanage/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/usermanage/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/usermanage/model/userinfo.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/usermanage/utils/add.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/usermanage/utils/init.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/usermanage/utils/passwd.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/usermanage/utils/utils.go" afterDir="false" />
+    <list default="true" id="7097630a-12af-418e-b90b-09d2642f9638" name="默认变更列表" comment="">
+      <change afterPath="$PROJECT_DIR$/day07/usermanage/utils/del.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/usermanage/utils/judge.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/usermanage/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/day07/usermanage/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/usermanage/utils/add.go" beforeDir="false" afterPath="$PROJECT_DIR$/day07/usermanage/utils/add.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/usermanage/utils/passwd.go" beforeDir="false" afterPath="$PROJECT_DIR$/day07/usermanage/utils/passwd.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Go File" />
         <option value="Go Application" />
+        <option value="Go File" />
       </list>
     </option>
   </component>
@@ -71,7 +69,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
