@@ -3,20 +3,18 @@ package utils
 import (
 	"fmt"
 	"github.com/olekukonko/tablewriter"
-	"io/ioutil"
-	"os"
 	"sort"
 	"strconv"
 	"strings"
 	"usermanage/model"
 )
 
-//定义用户结构体切片类型，以及创建用户的信息
+// UserList 定义用户结构体切片类型，以及创建用户的信息
 type UserList []model.User
 
 var UsersList UserList
 
-////定义方法满足sort接口
+// Len //定义方法满足sort接口
 func (this UserList) Len() int {
 	return len(this)
 }
@@ -41,5 +39,40 @@ func (this UserList) String() string {
 	}
 	table.Render()
 	return tableString.String()
+}
 
+//InitAdmin 初始化admin账户
+func InitAdmin() {
+	//判断admin账户是否存在，存在则先删除再创建
+	//删除之前admin账户
+	DelUser("admin")
+	passwd := SetPasswd("admin")
+	adminUser := model.User{
+		Id:       0,
+		Name:     "admin",
+		Password: passwd,
+	}
+	UsersList = append(UsersList, adminUser)
+}
+func InitAdminUser() {
+	_, exists := isUserExists("admin")
+	if !exists {
+		InitAdmin()
+	} else {
+	LABEL:
+		for {
+			fmt.Printf("已经存在的admin用户,是否重新初始化用户(y/n)?:")
+			choise := ""
+			fmt.Scan(&choise)
+			switch choise {
+			case "y", "Y":
+				InitAdmin()
+				break LABEL
+			case "n", "N":
+				break LABEL
+			default:
+				fmt.Println("输入错请重新输入")
+			}
+		}
+	}
 }
