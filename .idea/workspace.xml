@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7097630a-12af-418e-b90b-09d2642f9638" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/day07/usermanage/main" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/usermanage/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/usermanage/utils/exit.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/usermanage/utils/help.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/usermanage/utils/list.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/usermanage/utils/login.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/usermanage/utils/menu.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/usermanage/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/day07/usermanage/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/usermanage/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/day07/usermanage/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/usermanage/model/userinfo.go" beforeDir="false" afterPath="$PROJECT_DIR$/day07/usermanage/model/userinfo.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/usermanage/utils/add.go" beforeDir="false" afterPath="$PROJECT_DIR$/day07/usermanage/utils/add.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/usermanage/utils/flag.go" beforeDir="false" afterPath="$PROJECT_DIR$/day07/usermanage/utils/flag.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/usermanage/utils/init.go" beforeDir="false" afterPath="$PROJECT_DIR$/day07/usermanage/utils/init.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/usermanage/utils/query.go" beforeDir="false" afterPath="$PROJECT_DIR$/day07/usermanage/utils/query.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/usermanage/utils/utils.go" beforeDir="false" afterPath="$PROJECT_DIR$/day07/usermanage/utils/utils.go" afterDir="false" />
-    </list>
+    <list default="true" id="7097630a-12af-418e-b90b-09d2642f9638" name="默认变更列表" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,11 +90,11 @@
       <recent name="$PROJECT_DIR$/day05/codes/methodsv1/models" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day07" />
       <recent name="$PROJECT_DIR$/day07/usermanage" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/poerfile" />
       <recent name="$PROJECT_DIR$/day06/codes/13-fileforemat" />
-      <recent name="$PROJECT_DIR$/production" />
     </key>
   </component>
   <component name="RunManager" selected="Go 构建.go build 15-jsoner.go">
@@ -249,7 +232,8 @@
     <MESSAGE value="[master]作业" />
     <MESSAGE value="[master]作业(0.1)" />
     <MESSAGE value="[master]作业(0.2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="[master]作业(0.2)" />
+    <MESSAGE value="[master]作业(0.3)" />
+    <option name="LAST_COMMIT_MESSAGE" value="[master]作业(0.3)" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="VgoProject">
