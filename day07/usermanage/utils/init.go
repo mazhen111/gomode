@@ -3,6 +3,8 @@ package utils
 import (
 	"fmt"
 	"github.com/olekukonko/tablewriter"
+	"io/ioutil"
+	"os"
 	"sort"
 	"strconv"
 	"strings"
@@ -75,4 +77,69 @@ func InitAdminUser() {
 			}
 		}
 	}
+}
+
+//定义函数map
+var FuncMap = map[string]func(){
+	"add":   Add,
+	"de;":   Del,
+	"upd":   Update,
+	"help":  Help,
+	"query": Query,
+	"list":  List,
+	"exit":  Exit,
+}
+
+//定义文件持久化接口
+type Persist interface {
+	Save()
+}
+
+func InitPerMod() string {
+	fmt.Printf("请输入数据持久化格式(gob/csv/json)")
+	var mod string
+	fmt.Scan(&mod)
+	if mod != "gob" && mod != "csv" && mod != "json" {
+		fmt.Println("输入格式化错误，将默认使用json作为持久化格式")
+		mod = "jsom"
+	}
+	file, _ := os.OpenFile("mod.conf", os.O_WRONLY|os.O_TRUNC|os.O_CREATE, 0666)
+	defer file.Close()
+	file.Write([]byte(mod))
+	return mod
+}
+
+//定义初始化存储设备
+func InitPersist() {
+	data, err := ioutil.ReadFile("mod.conf")
+	if os.IsNotExist(err) || string(data) == "" {
+		fmt.Printf("测到当前系统还未定义存储格式")
+		InitPerMod()
+
+	} else if err != nil {
+		fmt.Println("获取存储配置失败！退出程序...")
+		os.Exit(0)
+
+	} else if string(data) == "csv" || string(data) == "json" || string(data) == "gob" {
+	LABEL:
+		for {
+			fmt.Print("当前已经初始化过持久化配置是否重新初始化(y/n)?:")
+			var choise string
+			fmt.Scan(&choise)
+			switch choise {
+			case "y", "Y":
+				InitPerMod()
+				break LABEL
+			case "n", "N":
+				break LABEL
+			default:
+				fmt.Println("输入错误请重新选择")
+			}
+		}
+
+	} else {
+		fmt.Println("配置无法识别，重新初始化")
+		InitPerMod()
+	}
+
 }

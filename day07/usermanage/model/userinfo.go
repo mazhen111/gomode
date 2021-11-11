@@ -20,7 +20,6 @@ type User struct {
 func (this User) String() string {
 	tebleString := &strings.Builder{} //追加字串用bytes.Buffer
 	table := tablewriter.NewWriter(tebleString)
-	table.SetHeader([]string{"Id", "Name", "Addr", "Tel", "Birthday", "Password"})
 	table.Append([]string{strconv.Itoa(this.Id), this.Name, this.Addr, this.Tel,
 		this.Birthday.Format("2006-01-02"), this.Password})
 	table.Render()

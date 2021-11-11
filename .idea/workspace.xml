@@ -5,13 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7097630a-12af-418e-b90b-09d2642f9638" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/day07/usermanage/utils/csv.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/usermanage/utils/delfile.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/usermanage/utils/flag.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/usermanage/utils/gob.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/usermanage/utils/json.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/usermanage/main" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/usermanage/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/usermanage/utils/exit.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/usermanage/utils/help.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/usermanage/utils/list.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/usermanage/utils/login.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/usermanage/utils/menu.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/usermanage/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/day07/usermanage/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/usermanage/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/day07/usermanage/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/usermanage/model/userinfo.go" beforeDir="false" afterPath="$PROJECT_DIR$/day07/usermanage/model/userinfo.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/usermanage/utils/add.go" beforeDir="false" afterPath="$PROJECT_DIR$/day07/usermanage/utils/add.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/usermanage/utils/flag.go" beforeDir="false" afterPath="$PROJECT_DIR$/day07/usermanage/utils/flag.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day07/usermanage/utils/init.go" beforeDir="false" afterPath="$PROJECT_DIR$/day07/usermanage/utils/init.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/usermanage/utils/query.go" beforeDir="false" afterPath="$PROJECT_DIR$/day07/usermanage/utils/query.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day07/usermanage/utils/utils.go" beforeDir="false" afterPath="$PROJECT_DIR$/day07/usermanage/utils/utils.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

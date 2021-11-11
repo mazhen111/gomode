@@ -2,6 +2,7 @@ package utils
 
 import (
 	"fmt"
+	"io/ioutil"
 	"os"
 	"sort"
 	"strings"
@@ -65,7 +66,22 @@ func Load() {
 	}
 }
 func GetPersist() Persist {
+	var mod string
+	data, _ := ioutil.ReadFile("mod.conf")
+	mod = string(data)
+	var persist Persist
+	switch mod {
+	case "gob":
+		persist = GobPersister{}
+	case "csv":
+		persist = CsvPersister{}
+	case "jsom":
+		persist = JsonPersister{}
+	default:
+		fmt.Printf("无法识别%v持久化格式,请以gob/csv/json作为持久化格式，退出程序\n", mod)
+		os.Exit(0)
 
-	return Persist
+	}
+	return persist
 
 }
