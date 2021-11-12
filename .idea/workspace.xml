@@ -4,7 +4,48 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7097630a-12af-418e-b90b-09d2642f9638" name="默认变更列表" comment="" />
+    <list default="true" id="7097630a-12af-418e-b90b-09d2642f9638" name="默认变更列表" comment="">
+      <change afterPath="$PROJECT_DIR$/day07/cmdb/cmd/command.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/cmdb/cmd/run.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/cmdb/data/json/userData.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/cmdb/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/cmdb/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/cmdb/logs/admin/userLogin.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/cmdb/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/cmdb/pkg/admin/admin.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/cmdb/pkg/admin/config.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/cmdb/pkg/admin/router.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/cmdb/pkg/admin/userDataCsv.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/cmdb/pkg/admin/userDataJson.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/cmdb/pkg/todolist/router.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/cmdb/pkg/todolist/todolist.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/cmdb/tools/help.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/cmdb/tools/tools.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/mod.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/model/userInfo.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/user.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/add.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/csv.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/del.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/delfile.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/exit.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/flag.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/gob.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/help.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/init.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/json.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/judge.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/list.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/login.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/menu.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/passwd.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/query.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/update.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/utils.go" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +114,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day07/usermanage/utils" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day07" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -83,11 +124,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day07" />
       <recent name="$PROJECT_DIR$/day07/usermanage/utils" />
       <recent name="$PROJECT_DIR$/poerfile" />
       <recent name="$PROJECT_DIR$/production" />
       <recent name="$PROJECT_DIR$/day05" />
-      <recent name="$PROJECT_DIR$/day05/codes/methodsv1/models" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/day07" />
@@ -97,7 +138,7 @@
       <recent name="$PROJECT_DIR$/day06/codes/13-fileforemat" />
     </key>
   </component>
-  <component name="RunManager" selected="Go 构建.go build 15-jsoner.go">
+  <component name="RunManager" selected="Go 构建.go build cmdb">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="gomode" />
       <working_directory value="$PROJECT_DIR$" />
@@ -107,45 +148,46 @@
       <filePath value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 12-string.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build cmdb" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day07/12-string.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build 13-sort.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day07/13-sort.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build 15-jsoner.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day07/codes/15-jsoner.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build homework" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$/day04/homework" />
+      <working_directory value="$PROJECT_DIR$/day07/cmdb" />
       <kind value="PACKAGE" />
-      <package value="homework" />
+      <package value="cmdb" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day04/homework/main.go" />
+      <filePath value="$PROJECT_DIR$/day07/cmdb/main.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build userinfo.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build github.com/htgolang/htgolang-20200919/tree/master/homework/day07-20201107/Go3028-Beijing-lisuo/user_management_proj" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$/day07/usermanage" />
+      <working_directory value="$PROJECT_DIR$/day07/user_management_proj" />
+      <kind value="PACKAGE" />
+      <package value="github.com/htgolang/htgolang-20200919/tree/master/homework/day07-20201107/Go3028-Beijing-lisuo/user_management_proj" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/day07/user_management_proj/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gomode" />
+      <working_directory value="$PROJECT_DIR$/day07/user_management_proj" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day07/usermanage/model/userinfo.go" />
+      <filePath value="$PROJECT_DIR$/day07/user_management_proj/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gomode" />
+      <working_directory value="$PROJECT_DIR$/day07/CMS" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/day07/CMS/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gomode" />
+      <working_directory value="$PROJECT_DIR$/day07/cmdb" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/day07/cmdb/main.go" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
@@ -160,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go 构建.go build 15-jsoner.go" />
-        <item itemvalue="Go 构建.go build homework" />
-        <item itemvalue="Go 构建.go build userinfo.go" />
-        <item itemvalue="Go 构建.go build 13-sort.go" />
-        <item itemvalue="Go 构建.go build 12-string.go" />
+        <item itemvalue="Go 构建.go build cmdb" />
+        <item itemvalue="Go 构建.go build main.go (3)" />
+        <item itemvalue="Go 构建.go build main.go (2)" />
+        <item itemvalue="Go 构建.go build main.go (1)" />
+        <item itemvalue="Go 构建.go build github.com/htgolang/htgolang-20200919/tree/master/homework/day07-20201107/Go3028-Beijing-lisuo/user_management_proj" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +275,8 @@
     <MESSAGE value="[master]作业(0.1)" />
     <MESSAGE value="[master]作业(0.2)" />
     <MESSAGE value="[master]作业(0.3)" />
-    <option name="LAST_COMMIT_MESSAGE" value="[master]作业(0.3)" />
+    <MESSAGE value="[master]作业(0.4)" />
+    <option name="LAST_COMMIT_MESSAGE" value="[master]作业(0.4)" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="VgoProject">
