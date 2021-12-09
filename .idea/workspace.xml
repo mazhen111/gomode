@@ -4,47 +4,12 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7097630a-12af-418e-b90b-09d2642f9638" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/day07/cmdb/cmd/command.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/cmdb/cmd/run.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/cmdb/data/json/userData.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/cmdb/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/cmdb/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/cmdb/logs/admin/userLogin.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/cmdb/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/cmdb/pkg/admin/admin.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/cmdb/pkg/admin/config.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/cmdb/pkg/admin/router.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/cmdb/pkg/admin/userDataCsv.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/cmdb/pkg/admin/userDataJson.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/cmdb/pkg/todolist/router.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/cmdb/pkg/todolist/todolist.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/cmdb/tools/help.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/cmdb/tools/tools.go" afterDir="false" />
+    <list default="true" id="7097630a-12af-418e-b90b-09d2642f9638" name="默认变更列表" comment="[master]作业">
+      <change afterPath="$PROJECT_DIR$/day08/1-goroutine.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/sleep.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/tail/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/tail/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/go.sum" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/mod.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/model/userInfo.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/user.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/add.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/csv.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/del.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/delfile.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/exit.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/flag.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/gob.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/help.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/init.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/json.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/judge.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/list.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/login.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/menu.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/passwd.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/query.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/update.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/usermanage_v1/utils/utils.go" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,12 +19,12 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Go Application" />
         <option value="Go File" />
+        <option value="Go Application" />
       </list>
     </option>
   </component>
-  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../Go" />
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
@@ -81,16 +46,16 @@
     <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/day04/codes/14-testbase64/mian.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day06/codes/3-stdio/go.mod" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day06/codes/13-fileforemat/writegob.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day06/codes/3-stdio/main.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day06/codes/13-fileforemat/user.csv" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/day06/codes/1-filereader/main.go" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/day06/codes/13-fileforemat/users.gob" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/day06/codes/3-stdio/go.mod" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/day06/codes/13-fileforemat/user.csv" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/day06/codes/3-stdio/main.go" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/day06/codes/4-openfile/go.mod" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/day06/codes/4-openfile/main.go" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/day06/codes/12-filepath/1.txt" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/day06/codes/13-fileforemat/writegob.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day06/codes/4-openfile/main.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day04/codes/14-testbase64/mian.go" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1tNrOYlbUXjmSQBrWBpml0tyE86" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -103,7 +68,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -114,99 +79,78 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day07" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="go.sdk" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/day07" />
-      <recent name="$PROJECT_DIR$/day07/usermanage/utils" />
       <recent name="$PROJECT_DIR$/poerfile" />
       <recent name="$PROJECT_DIR$/production" />
       <recent name="$PROJECT_DIR$/day05" />
+      <recent name="$PROJECT_DIR$/day05/codes/methodsv1/models" />
+      <recent name="$PROJECT_DIR$/day05/codes/methodsv1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/day07" />
       <recent name="$PROJECT_DIR$/day07/usermanage" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/poerfile" />
       <recent name="$PROJECT_DIR$/day06/codes/13-fileforemat" />
+      <recent name="$PROJECT_DIR$/production" />
     </key>
   </component>
-  <component name="RunManager" selected="Go 构建.go build cmdb">
-    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+  <component name="RunManager" selected="Go 构建.go build 1-goroutine.go">
+    <configuration name="go build 1-goroutine.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gomode" />
       <working_directory value="$PROJECT_DIR$" />
-      <go_parameters value="-i" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/day08/1-goroutine.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build cmdb" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$/day07/cmdb" />
-      <kind value="PACKAGE" />
-      <package value="cmdb" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day07/cmdb/main.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build github.com/htgolang/htgolang-20200919/tree/master/homework/day07-20201107/Go3028-Beijing-lisuo/user_management_proj" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$/day07/user_management_proj" />
-      <kind value="PACKAGE" />
-      <package value="github.com/htgolang/htgolang-20200919/tree/master/homework/day07-20201107/Go3028-Beijing-lisuo/user_management_proj" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day07/user_management_proj/main.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$/day07/user_management_proj" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day07/user_management_proj/main.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build main.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$/day07/CMS" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day07/CMS/main.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build main.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$/day07/cmdb" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day07/cmdb/main.go" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+    <configuration name="go build 13-sort.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gomode" />
       <working_directory value="$PROJECT_DIR$" />
-      <go_parameters value="-i" />
-      <kind value="DIRECTORY" />
+      <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
+      <filePath value="$PROJECT_DIR$/day07/13-sort.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gomode" />
+      <working_directory value="$PROJECT_DIR$/day08/tail" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/day08/tail/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build sleep.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gomode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/day08/sleep.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build userinfo.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gomode" />
+      <working_directory value="$PROJECT_DIR$/day07/usermanage" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/day07/usermanage/model/userinfo.go" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go 构建.go build cmdb" />
-        <item itemvalue="Go 构建.go build main.go (3)" />
-        <item itemvalue="Go 构建.go build main.go (2)" />
-        <item itemvalue="Go 构建.go build main.go (1)" />
-        <item itemvalue="Go 构建.go build github.com/htgolang/htgolang-20200919/tree/master/homework/day07-20201107/Go3028-Beijing-lisuo/user_management_proj" />
+        <item itemvalue="Go 构建.go build 1-goroutine.go" />
+        <item itemvalue="Go 构建.go build sleep.go" />
+        <item itemvalue="Go 构建.go build main.go" />
+        <item itemvalue="Go 构建.go build userinfo.go" />
+        <item itemvalue="Go 构建.go build 13-sort.go" />
       </list>
     </recent_temporary>
   </component>
@@ -272,11 +216,7 @@
     <MESSAGE value="[master]映射" />
     <MESSAGE value="[master]接口11" />
     <MESSAGE value="[master]作业" />
-    <MESSAGE value="[master]作业(0.1)" />
-    <MESSAGE value="[master]作业(0.2)" />
-    <MESSAGE value="[master]作业(0.3)" />
-    <MESSAGE value="[master]作业(0.4)" />
-    <option name="LAST_COMMIT_MESSAGE" value="[master]作业(0.4)" />
+    <option name="LAST_COMMIT_MESSAGE" value="[master]作业" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="VgoProject">
