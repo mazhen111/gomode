@@ -4,7 +4,31 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7097630a-12af-418e-b90b-09d2642f9638" name="默认变更列表" comment="[master]管道" />
+    <list default="true" id="7097630a-12af-418e-b90b-09d2642f9638" name="默认变更列表" comment="[master]管道">
+      <change afterPath="$PROJECT_DIR$/day08/codes/12-timeout_v1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/codes/13-time.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/codes/14-timeout.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/cmdb/data/json/userData.json" beforeDir="false" afterPath="$PROJECT_DIR$/day07/cmdb/data/json/userData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/cmdb/logs/admin/userLogin.log" beforeDir="false" afterPath="$PROJECT_DIR$/day07/cmdb/logs/admin/userLogin.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/cmdb/pkg/admin/admin.go" beforeDir="false" afterPath="$PROJECT_DIR$/day07/cmdb/pkg/admin/admin.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/cmdb/pkg/admin/userDataJson.go" beforeDir="false" afterPath="$PROJECT_DIR$/day07/cmdb/pkg/admin/userDataJson.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/1-goroutine.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/1-goroutine.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/10-only.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/10-only.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/11-selectase.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/11-selectase.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/2-sleep.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/2-sleep.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/3-task.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/3-task.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/4-taskv1.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/4-taskv1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/5-closer.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/5-closer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/6-salary.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/6-salary.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/7-salary_v1.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/7-salary_v1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/8-channel.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/8-channel.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/9-bufferedchannel.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/9-bufferedchannel.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/9-bufferedchannel_v1.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/9-bufferedchannel_v1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/tail/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/tail/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/tail/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/tail/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,12 +37,12 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Go File" />
         <option value="Go Application" />
+        <option value="Go File" />
       </list>
     </option>
   </component>
-  <component name="GOROOT" url="file://$PROJECT_DIR$/../../Go" />
+  <component name="GOROOT" url="file:///usr/local/go" />
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
@@ -40,25 +64,16 @@
     <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/day06/codes/3-stdio/go.mod" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/day07/cmdb/tools/help.go" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/user.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day06/codes/4-openfile/go.mod" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day06/codes/4-openfile/main.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day06/codes/12-filepath/1.txt" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/day06/codes/13-fileforemat/writegob.go" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/day04/codes/14-testbase64/mian.go" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/day07/usermanage/utils/passwd.go" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/day06/codes/13-fileforemat/users.gob" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/day07/codes/14-json.go" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/day06/codes/4-openfile/main.go" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/day07/cmdb/tools/tools.go" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/day06/codes/13-fileforemat/user.csv" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/day06/codes/4-openfile/go.mod" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/day08/2-sleep.go" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/day06/codes/1-filereader/main.go" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/day07/codes/15-jsoner.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day06/codes/13-fileforemat/users.gob" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day06/codes/3-stdio/go.mod" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day06/codes/13-fileforemat/user.csv" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/day06/codes/3-stdio/main.go" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/day06/codes/12-filepath/1.txt" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/day08/tail/main.go" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/day08/1-goroutine.go" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -74,8 +89,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="DatabaseDriversLRU" value="mysql" />
-    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -94,72 +108,92 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\goproject\gomode\day08" />
+      <recent name="$PROJECT_DIR$/day08" />
+      <recent name="$PROJECT_DIR$/day07" />
+      <recent name="$PROJECT_DIR$/day07/usermanage/utils" />
       <recent name="$PROJECT_DIR$/poerfile" />
       <recent name="$PROJECT_DIR$/production" />
-      <recent name="$PROJECT_DIR$/day05" />
-      <recent name="$PROJECT_DIR$/day05/codes/methodsv1/models" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\goproject\gomode\day08" />
+      <recent name="$PROJECT_DIR$/day08/codes" />
+      <recent name="$PROJECT_DIR$/day07" />
       <recent name="$PROJECT_DIR$/day07/usermanage" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/poerfile" />
-      <recent name="$PROJECT_DIR$/day06/codes/13-fileforemat" />
     </key>
   </component>
-  <component name="RunManager" selected="Go 构建.go build 11-selectase.go">
-    <configuration name="go build 10-only.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go 构建.go build 14-timeout.go">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="gomode" />
       <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day08/10-only.go" />
+      <filePath value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 11-selectase.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 12-timeout_v1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gomode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day08/11-selectase.go" />
+      <filePath value="$PROJECT_DIR$/day08/12-timeout_v1.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 8-channel.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 13-time.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gomode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day08/8-channel.go" />
+      <filePath value="$PROJECT_DIR$/day08/13-time.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 9-bufferedchannel.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 14-timeout.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gomode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day08/9-bufferedchannel.go" />
+      <filePath value="$PROJECT_DIR$/day08/14-timeout.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 9-bufferedchannel_v1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build cmdb" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$" />
+      <working_directory value="$PROJECT_DIR$/day07/cmdb" />
+      <kind value="PACKAGE" />
+      <package value="cmdb" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/day07/cmdb/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gomode" />
+      <working_directory value="$PROJECT_DIR$/day07/cmdb" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day08/9-bufferedchannel_v1.go" />
+      <filePath value="$PROJECT_DIR$/day07/cmdb/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="gomode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go 构建.go build 11-selectase.go" />
-        <item itemvalue="Go 构建.go build 10-only.go" />
-        <item itemvalue="Go 构建.go build 9-bufferedchannel_v1.go" />
-        <item itemvalue="Go 构建.go build 9-bufferedchannel.go" />
-        <item itemvalue="Go 构建.go build 8-channel.go" />
+        <item itemvalue="Go 构建.go build 14-timeout.go" />
+        <item itemvalue="Go 构建.go build 13-time.go" />
+        <item itemvalue="Go 构建.go build 12-timeout_v1.go" />
+        <item itemvalue="Go 构建.go build cmdb" />
+        <item itemvalue="Go 构建.go build main.go (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -224,8 +258,10 @@
     <MESSAGE value="[master]映射" />
     <MESSAGE value="[master]接口11" />
     <MESSAGE value="[master]作业" />
-    <MESSAGE value="[master]进程" />
-    <MESSAGE value="[master]线程" />
+    <MESSAGE value="[master]作业(0.1)" />
+    <MESSAGE value="[master]作业(0.2)" />
+    <MESSAGE value="[master]作业(0.3)" />
+    <MESSAGE value="[master]作业(0.4)" />
     <MESSAGE value="[master]管道" />
     <option name="LAST_COMMIT_MESSAGE" value="[master]管道" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />

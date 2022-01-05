@@ -166,7 +166,11 @@ func UserInput() (data Users) {
 
 // 用户登录信息MD5检测
 func UserLoginAuth(userData, passwdData string) bool {
+	fmt.Println("TEST")
+	fmt.Println(UserList)
 	for _, v := range UserList {
+		fmt.Println("1111" + passwdData + "222")
+		fmt.Println("源秘钥" + v.Passwd)
 		if v.Name == userData && v.Passwd == tools.Md5sum(passwdData) {
 			return true
 		}
@@ -187,6 +191,7 @@ func HandlerUserLoginAuth() bool {
 		}
 		userData := tools.StrInput(`请输入登录用户：`)
 		passwdData := tools.StrInput(`请输入密码：`)
+		fmt.Println("1111" + tools.Md5sum(passwdData))
 
 		// 对比输入值的md5是否与默认值的md5一致
 		if UserLoginAuth(userData, passwdData) {

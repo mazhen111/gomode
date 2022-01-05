@@ -3,6 +3,7 @@ package admin
 import (
 	"bufio"
 	"encoding/json"
+	"fmt"
 	"io"
 	"log"
 	"os"
@@ -37,7 +38,9 @@ func (c *JsonClient) ReadUsersData() error {
 		if err != nil {
 			return err
 		}
+		fmt.Println(UserList, "读文件")
 		UserList = append(UserList, &u)
+
 	}
 
 	if err := scanner.Err(); err != nil {

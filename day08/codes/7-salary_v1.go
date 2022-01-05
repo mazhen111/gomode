@@ -17,10 +17,10 @@ func main() {
 		go func() {
 			defer wg.Done()
 			for i := 0; i < 1000; i++ {
-				locker.Lock()
+				locker.Lock() //加锁
 				salary += 10
 				locker.Unlock()
-				runtime.Gosched()
+				runtime.Gosched() //解锁
 			}
 
 		}()
@@ -28,10 +28,10 @@ func main() {
 		go func() {
 			defer wg.Done()
 			for i := 0; i < 1000; i++ {
-				locker.Lock()
+				locker.Lock() //加锁
 				salary -= 10
 				locker.Unlock()
-				runtime.Gosched()
+				runtime.Gosched() //解锁
 			}
 
 		}()
