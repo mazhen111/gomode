@@ -4,30 +4,12 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7097630a-12af-418e-b90b-09d2642f9638" name="默认变更列表" comment="[master]管道">
-      <change afterPath="$PROJECT_DIR$/day08/codes/12-timeout_v1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/codes/13-time.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/codes/14-timeout.go" afterDir="false" />
+    <list default="true" id="7097630a-12af-418e-b90b-09d2642f9638" name="默认变更列表" comment="">
+      <change afterPath="$PROJECT_DIR$/day08/homework/dircofy/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/homework/dircofy/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/homework/dircofy/model/copydir.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/homework/dircofy/utils/copy.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/cmdb/data/json/userData.json" beforeDir="false" afterPath="$PROJECT_DIR$/day07/cmdb/data/json/userData.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/cmdb/logs/admin/userLogin.log" beforeDir="false" afterPath="$PROJECT_DIR$/day07/cmdb/logs/admin/userLogin.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/cmdb/pkg/admin/admin.go" beforeDir="false" afterPath="$PROJECT_DIR$/day07/cmdb/pkg/admin/admin.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/cmdb/pkg/admin/userDataJson.go" beforeDir="false" afterPath="$PROJECT_DIR$/day07/cmdb/pkg/admin/userDataJson.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/1-goroutine.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/1-goroutine.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/10-only.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/10-only.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/11-selectase.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/11-selectase.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/2-sleep.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/2-sleep.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/3-task.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/3-task.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/4-taskv1.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/4-taskv1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/5-closer.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/5-closer.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/6-salary.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/6-salary.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/7-salary_v1.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/7-salary_v1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/8-channel.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/8-channel.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/9-bufferedchannel.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/9-bufferedchannel.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/9-bufferedchannel_v1.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/9-bufferedchannel_v1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/tail/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/tail/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/tail/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/tail/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Go Application" />
         <option value="Go File" />
+        <option value="Go Application" />
       </list>
     </option>
   </component>
@@ -89,7 +71,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -102,7 +84,7 @@
     <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.watchers.conflict.with.on.save.actions.check.performed" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day08" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
