@@ -4,30 +4,27 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7097630a-12af-418e-b90b-09d2642f9638" name="默认变更列表" comment="[master]管道">
-      <change afterPath="$PROJECT_DIR$/day08/codes/12-timeout_v1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/codes/13-time.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/codes/14-timeout.go" afterDir="false" />
+    <list default="true" id="7097630a-12af-418e-b90b-09d2642f9638" name="默认变更列表" comment="[master]更新">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/cmdb/data/json/userData.json" beforeDir="false" afterPath="$PROJECT_DIR$/day07/cmdb/data/json/userData.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/cmdb/logs/admin/userLogin.log" beforeDir="false" afterPath="$PROJECT_DIR$/day07/cmdb/logs/admin/userLogin.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day07/cmdb/pkg/admin/admin.go" beforeDir="false" afterPath="$PROJECT_DIR$/day07/cmdb/pkg/admin/admin.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day07/cmdb/pkg/admin/userDataJson.go" beforeDir="false" afterPath="$PROJECT_DIR$/day07/cmdb/pkg/admin/userDataJson.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/1-goroutine.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/1-goroutine.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/10-only.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/10-only.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/11-selectase.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/11-selectase.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/2-sleep.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/2-sleep.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/3-task.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/3-task.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/4-taskv1.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/4-taskv1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/5-closer.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/5-closer.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/6-salary.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/6-salary.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/7-salary_v1.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/7-salary_v1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/8-channel.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/8-channel.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/9-bufferedchannel.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/9-bufferedchannel.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/9-bufferedchannel_v1.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/9-bufferedchannel_v1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/tail/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/tail/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/tail/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/tail/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/codes/1-goroutine.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/1-goroutine.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/codes/10-only.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/10-only.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/codes/11-selectase.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/11-selectase.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/codes/12-timeout_v1.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/12-timeout_v1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/codes/13-time.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/13-time.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/codes/14-timeout.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/14-timeout.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/codes/2-sleep.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/2-sleep.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/codes/3-task.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/3-task.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/codes/4-taskv1.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/4-taskv1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/codes/5-closer.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/5-closer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/codes/6-salary.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/6-salary.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/codes/7-salary_v1.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/7-salary_v1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/codes/8-channel.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/8-channel.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/codes/9-bufferedchannel.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/9-bufferedchannel.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/codes/9-bufferedchannel_v1.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/9-bufferedchannel_v1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/codes/tail/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/tail/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/homework/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/homework/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,16 +61,16 @@
     <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/day06/codes/4-openfile/go.mod" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/day06/codes/4-openfile/main.go" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/day06/codes/12-filepath/1.txt" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/day06/codes/13-fileforemat/writegob.go" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/day04/codes/14-testbase64/mian.go" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/day06/codes/1-filereader/main.go" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/day06/codes/13-fileforemat/users.gob" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/day06/codes/3-stdio/go.mod" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/day06/codes/13-fileforemat/user.csv" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day06/codes/13-fileforemat/writegob.go" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/day06/codes/3-stdio/main.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day04/codes/14-testbase64/mian.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day06/codes/13-fileforemat/users.gob" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day06/codes/4-openfile/main.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day06/codes/4-openfile/go.mod" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day06/codes/13-fileforemat/user.csv" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day06/codes/12-filepath/1.txt" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -227,7 +224,6 @@
     </ignored-roots>
     <MESSAGE value="[master]twwt" />
     <MESSAGE value="[master]共享空间" />
-    <MESSAGE value="[master]更新" />
     <MESSAGE value="[master]更新结构体" />
     <MESSAGE value="[master]更新结构体test" />
     <MESSAGE value="[master]文件操作" />
@@ -244,7 +240,8 @@
     <MESSAGE value="[master]作业(0.3)" />
     <MESSAGE value="[master]作业(0.4)" />
     <MESSAGE value="[master]管道" />
-    <option name="LAST_COMMIT_MESSAGE" value="[master]管道" />
+    <MESSAGE value="[master]更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="[master]更新" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="VgoProject">
