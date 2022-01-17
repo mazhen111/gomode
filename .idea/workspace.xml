@@ -4,27 +4,11 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7097630a-12af-418e-b90b-09d2642f9638" name="默认变更列表" comment="[master]更新">
+    <list default="true" id="7097630a-12af-418e-b90b-09d2642f9638" name="默认变更列表" comment="[master]zuoye更新">
+      <change afterPath="$PROJECT_DIR$/day09/01-net.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day07/cmdb/pkg/admin/admin.go" beforeDir="false" afterPath="$PROJECT_DIR$/day07/cmdb/pkg/admin/admin.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day07/cmdb/pkg/admin/userDataJson.go" beforeDir="false" afterPath="$PROJECT_DIR$/day07/cmdb/pkg/admin/userDataJson.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/codes/1-goroutine.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/1-goroutine.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/codes/10-only.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/10-only.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/codes/11-selectase.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/11-selectase.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/codes/12-timeout_v1.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/12-timeout_v1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/codes/13-time.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/13-time.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/codes/14-timeout.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/14-timeout.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/codes/2-sleep.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/2-sleep.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/codes/3-task.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/3-task.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/codes/4-taskv1.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/4-taskv1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/codes/5-closer.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/5-closer.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/codes/6-salary.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/6-salary.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/codes/7-salary_v1.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/7-salary_v1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/codes/8-channel.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/8-channel.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/codes/9-bufferedchannel.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/9-bufferedchannel.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/codes/9-bufferedchannel_v1.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/9-bufferedchannel_v1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/codes/tail/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/codes/tail/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/homework/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08/homework/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +23,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../Go" />
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
@@ -123,7 +107,15 @@
       <recent name="$PROJECT_DIR$/poerfile" />
     </key>
   </component>
-  <component name="RunManager" selected="Go 构建.go build 14-timeout.go">
+  <component name="RunManager" selected="Go 构建.go build 01-net.go">
+    <configuration name="go build 01-net.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gomode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/day09/01-net.go" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build 12-timeout_v1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gomode" />
       <working_directory value="$PROJECT_DIR$" />
@@ -157,21 +149,13 @@
       <filePath value="$PROJECT_DIR$/day07/cmdb/main.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build main.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$/day07/cmdb" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day07/cmdb/main.go" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go 构建.go build 01-net.go" />
         <item itemvalue="Go 构建.go build 14-timeout.go" />
         <item itemvalue="Go 构建.go build 13-time.go" />
         <item itemvalue="Go 构建.go build 12-timeout_v1.go" />
         <item itemvalue="Go 构建.go build cmdb" />
-        <item itemvalue="Go 构建.go build main.go (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +225,8 @@
     <MESSAGE value="[master]作业(0.4)" />
     <MESSAGE value="[master]管道" />
     <MESSAGE value="[master]更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="[master]更新" />
+    <MESSAGE value="[master]zuoye更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="[master]zuoye更新" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="VgoProject">
