@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7097630a-12af-418e-b90b-09d2642f9638" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/day09/06-webclient.go" afterDir="false" />
+    <list default="true" id="7097630a-12af-418e-b90b-09d2642f9638" name="默认变更列表" comment="[master]网络编程">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day09/fmt.go" beforeDir="false" afterPath="$PROJECT_DIR$/day09/fmt.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +21,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../Go" />
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
@@ -43,16 +43,16 @@
     <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/day06/codes/4-openfile/go.mod" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/day06/codes/4-openfile/main.go" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/day06/codes/12-filepath/1.txt" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/day06/codes/13-fileforemat/writegob.go" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/day04/codes/14-testbase64/mian.go" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/day06/codes/1-filereader/main.go" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/day06/codes/13-fileforemat/users.gob" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/day06/codes/3-stdio/go.mod" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/day06/codes/13-fileforemat/user.csv" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day06/codes/13-fileforemat/writegob.go" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/day06/codes/3-stdio/main.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day04/codes/14-testbase64/mian.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day06/codes/13-fileforemat/users.gob" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day06/codes/4-openfile/main.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day06/codes/4-openfile/go.mod" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day06/codes/13-fileforemat/user.csv" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day06/codes/12-filepath/1.txt" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -105,7 +105,7 @@
       <recent name="$PROJECT_DIR$/day07" />
     </key>
   </component>
-  <component name="RunManager" selected="Go 构建.go build 06-webclient.go">
+  <component name="RunManager" selected="Go 构建.go build fmt.go">
     <configuration name="go build 04-web.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gomode" />
       <working_directory value="$PROJECT_DIR$" />
@@ -130,6 +130,14 @@
       <filePath value="$PROJECT_DIR$/day09/03-udpclock/client.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build fmt.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gomode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/day09/fmt.go" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gomode" />
       <working_directory value="$PROJECT_DIR$" />
@@ -138,21 +146,13 @@
       <filePath value="$PROJECT_DIR$/day09/5-staticserver/main.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build server.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="gomode" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/day09/03-udpclock/server.go" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go 构建.go build fmt.go" />
         <item itemvalue="Go 构建.go build 06-webclient.go" />
-        <item itemvalue="Go 构建.go build 04-web.go" />
         <item itemvalue="Go 构建.go build main.go" />
+        <item itemvalue="Go 构建.go build 04-web.go" />
         <item itemvalue="Go 构建.go build client.go (2)" />
-        <item itemvalue="Go 构建.go build server.go (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -223,8 +223,7 @@
     <MESSAGE value="[master]管道" />
     <MESSAGE value="[master]更新" />
     <MESSAGE value="[master]网络编程" />
-    <MESSAGE value="[master]dev网络编程" />
-    <option name="LAST_COMMIT_MESSAGE" value="[master]dev网络编程" />
+    <option name="LAST_COMMIT_MESSAGE" value="[master]网络编程" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="VgoProject">
@@ -287,11 +286,6 @@
           <url>file://$PROJECT_DIR$/day07/usermanage/tablewriter/table_with_color.go</url>
           <line>12</line>
           <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/day09/fmt.go</url>
-          <line>13</line>
-          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
